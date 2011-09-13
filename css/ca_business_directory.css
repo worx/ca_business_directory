@@ -1,0 +1,11 @@
+/* CA Business Directory CSS */
+  /* Template One */
+  #ca-business-directory-template-one .col-1,
+  #ca-business-directory-template-one .col-2,
+  #ca-business-directory-template-one .col-3 {width: 33%;}
+  #ca-business-directory-template-one .field-field-ca-business-dir-image {float: left; margin: 0 10px;}
+  #ca-business-directory-template-one .views-field-view-node {margin-right: 10px; text-align: right;}
+  #ca-business-directory-template-one .views-field-nothing {clear: both; margin-bottom: 10px; padding-bottom: 10px;}
+	
+	.node-type-ca_business_directory .pane-node-terms {font-style: italic;}
+
